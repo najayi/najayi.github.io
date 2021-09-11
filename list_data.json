@@ -1,33 +1,45 @@
 {
-	"publications": [{
-		"Title": "Automatically Generating Cause-and_Effect Questions from Passages",
-		"Authors": "Stasaski, K., Rathod, M., Tu, T., Xiao, Y, and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2021"
+	"fall 2021 courses": [{
+		"Course ID": "INFO 206A",
+		"Title": "Introduction to Programming and Computation",
+		"Instuctor": "Benjamin Allen",
+		"Mode": "In-Person"
 	},
 	{
-		"Title": "Automatic Feedback Generation for Dialog-Based Language Tutors Using Transformer Models and Active Learning",
-		"Authors": "Stasaski, K. and Ramanarayanan, V.",
-		"Venue": "Human-in-the-Loop Dialogue Systems Workshop",
-		"Year": "2020"
+		"Course ID": "INFO 206B",
+		"Title": "Introduction to Data Structures and Analytics",
+		"Instuctor": "Benjamin Allen",
+		"Mode": "In-Person"
 	},
 	{
-		"Title": "More Diverse Dialogue Datasets via Diversity-Informed Data Collection",
-		"Authors": "Stasaski, K., Yang, G., and Hearst, M.A.",
-		"Venue": "ACL",
-		"Year": "2020"
+		"Course ID": "INFO 202",
+		"Title": "Information Organization and Retrieval",
+		"Instuctor": "Marti Hearst",
+		"Mode": "In-Person"
 	},
 	{
-		"Title": " Construction of a Large Open Access Dialogue Dataset for Tutoring",
-		"Authors": "Stasaski, K., Kao, K., and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2020"
+		"Course ID": "INFO 271B",
+		"Title": "Quantitative Research Methods for Information Systems and Management",
+		"Instuctor": "Coye Cheshire",
+		"Mode": "In-Person"
 	},
 	{
-		"Title": "Multiple Choice Question Generation Utilizing an Ontology",
-		"Authors": "Stasaski, K and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2017"
+		"Course ID": "INFO 290",
+		"Title": "Antiracism in Technology",
+		"Instuctor": "Aimee Medeiros",
+		"Mode": "Remote"
+	},
+	{
+		"Course ID": "PHYSICS 375",
+		"Title": "Professional Preparation: Supervised Teaching of Physics",
+		"Instuctor": "Austin Hedeman",
+		"Mode": "In-Person"
+	},
+	{
+		"Course ID": "PHYSICS 301",
+		"Title": "Advanced Professional Preparation: Supervised Teaching of Physics",
+		"Instuctor": "Austin Hedeman",
+		"Mode": "None"
 	}]
 	
 }
